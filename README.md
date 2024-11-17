@@ -18,17 +18,20 @@ Create a dynamic interactive dashboard for decision-making.
 
 Cleaned and transformed raw data into an analysis-ready format.
 Combined data from multiple sources.
+
 📊 Power Pivot
 
 Built relationships between multiple datasets.
 Used DAX measures for advanced calculations.
+
 🔢 Excel Functions
 
 SUMIFS, XLOOKUP, AVERAGE, and custom calculations for advanced analysis.
+
 🎨 Visualizations
 
 Designed dynamic dashboards using PivotCharts, PivotTables, and Slicers.
-Created an intuitive layout for users to filter by year, region, product, and more.
+Created a layout for users to filter by year, region, and month.
 
 🌟 Key Insights:
 ------------------------------
@@ -57,12 +60,8 @@ Created an intuitive layout for users to filter by year, region, product, and mo
 
 🌍 Regional Performance:
 
-🇦🇺🇺🇸 Australia and the US contributed 72.8% of profits.
-Other regions like 🇫🇷 France, 🇩🇪 Germany, and 🇨🇦 Canada showed steady performance.
-
-📉 Historical Trends:
-
-Revenue grew steadily from 2005–2008, with 66.5% of total revenue generated in those years.
+Australia and the US contributed 72.8% of profits.
+Other regions like France, Germany, and Canada showed steady performance.
 
 Features:
 ------------------------------
@@ -70,9 +69,8 @@ Features:
 📊 Interactive dashboards with slicers for year, month, and region filtering.
 🔎 Detailed breakdown of profits by product, customer demographics, and regions.
 🗓️ Weekday vs. weekend profitability analysis.
-Visual insights through PivotCharts on profit trends, customer segmentation, and product performance.
 
-Takeaways & My Learnings:
+My Learnings:
 -------------------------------
 
 Working on this project strengthened my understanding of:
@@ -80,3 +78,12 @@ Working on this project strengthened my understanding of:
 Data cleaning, transformation, and visualization in Excel.
 The importance of storytelling through data.
 How to create dashboards that are not just visually appealing but also insightful and actionable.
+
+![image](https://github.com/user-attachments/assets/405adcc7-ccf7-40b6-88a1-a90e3fce3982)
+
+![image](https://github.com/user-attachments/assets/a51f156c-9168-48e5-b61a-62ed002823c6)
+
+![image](https://github.com/user-attachments/assets/59e8a52e-5eed-4542-a5e2-786ae24b0560)
+
+
+
