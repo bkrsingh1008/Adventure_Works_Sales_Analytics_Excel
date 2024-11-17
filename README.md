@@ -37,6 +37,7 @@ Created a layout for users to filter by year, region, and month.
 ------------------------------
 
 📈 Overall Metrics:
+-----------------------
 
 💰 Total Revenue: $101.86M
 
@@ -45,12 +46,14 @@ Created a layout for users to filter by year, region, and month.
 🛍️ Total Transactions: 32.27K (+13.79% growth)
 
 ⏳ Time Analysis:
+----------------------
 
 🗓️ The top three months (April, May, and June) contributed 55.6% of the total profit in 2008.
 
 📅 71.6% of profits were generated on weekdays, with Wednesday being the most profitable.
 
 👥 Customer Insights:
+-------------------------
 
 🎂 Average customer age: 45 years.
 
@@ -59,12 +62,14 @@ Created a layout for users to filter by year, region, and month.
 🙋‍♀️ Female customers contributed 50.5% of profits.
 
 📦 Product Insights:
+-------------------------
 
 ⭐ Top-performing products: Mountain-200 Black (size 38 & 42).
 
 💎 Products priced above $150 drove 92% of the total profit.
 
 🌍 Regional Performance:
+--------------------------
 
 Australia and the US contributed 72.8% of profits.
 
