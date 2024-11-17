@@ -5,12 +5,30 @@
 
 This project analyzes the sales performance of Adventure Works using Excel. Through advanced Excel techniques such as PivotTables, PivotCharts, slicers, and formulas, the dashboards provide actionable insights into revenue, profit, transactions, and customer behavior.
 
+The primary goals of this project were to:
+
+Analyze overall business performance across years.
+Identify trends in customer behavior, product performance, and regional sales.
+Create a dynamic interactive dashboard for decision-making.
+
 🛠 Excel Techniques Used:
 -------------------------------
 
-PivotTables & PivotCharts for creating dynamic visuals.
-Conditional Formatting to highlight key performance metrics.
-Advanced formulas for calculating profit margins, growth rates, and customer insights.
+💡 Power Query
+
+Cleaned and transformed raw data into an analysis-ready format.
+Combined data from multiple sources.
+📊 Power Pivot
+
+Built relationships between multiple datasets.
+Used DAX measures for advanced calculations.
+🔢 Excel Functions
+
+SUMIFS, XLOOKUP, AVERAGE, and custom calculations for advanced analysis.
+🎨 Visualizations
+
+Designed dynamic dashboards using PivotCharts, PivotTables, and Slicers.
+Created an intuitive layout for users to filter by year, region, product, and more.
 
 🌟 Key Insights:
 ------------------------------
